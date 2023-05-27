@@ -10,7 +10,7 @@ Note Creation: Users can effortlessly create new notes by providing a title and 
 
 Note Management: The application provides essential features for managing notes, such as editing existing notes, deleting notes, and marking notes as completed. <br/>
 
-Real-Time Updates: Keeper-App utilizes real-time updates, ensuring that users can see changes to their notes instantly without requiring a page refresh. <br/>
+Real-Time Updates: Note Vault utilizes real-time updates, ensuring that users can see changes to their notes instantly without requiring a page refresh. <br/>
 
 Responsive Design: The frontend is designed to be fully responsive, ensuring a consistent experience across different devices and screen sizes. <br/>
 
@@ -18,7 +18,7 @@ Installation <br/>
 
 To run the Note Vault locally, follow these steps: <br/>
 
-Clone this repository: git clone https://github.com/RishabhK200/Keeper-App.git <br/>
+Clone this repository: git clone https://github.com/RishabhK200/Note-Vault.git <br/>
 Navigate to the project directory: cd Note Vault <br/>
 Install the dependencies: npm install <br/>
 Start the development server: npm start <br/>
