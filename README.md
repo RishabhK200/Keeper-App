@@ -19,7 +19,7 @@ Installation <br/>
 To run the Note Vault locally, follow these steps: <br/>
 
 Clone this repository: git clone https://github.com/RishabhK200/Keeper-App.git <br/>
-Navigate to the project directory: cd Keeper-App <br/>
+Navigate to the project directory: cd Note Vault <br/>
 Install the dependencies: npm install <br/>
 Start the development server: npm start <br/>
 Open your browser and visit: http://localhost:3000 <br/>
